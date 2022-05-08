@@ -1,0 +1,124 @@
+,, Historical Results ,,,,,  Forecast Period ,,,,
+scenario, ASSUMPTIONS ,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025
+,,,,,,,,,,,
+,Assumptions,,,,,,,,,,
+ scenario , Income statement ,,,,,,,,,,
+ scenario , Revenue Growth (% Change) ,,15.8%,11.2%,8.4%,-100.0%,5.0%,4.5%,4.0%,3.5%,3.0%
+ scenario , Cost of Goods Sold (% of Revenue) ,38.3%,40.7%,37.4%,37.4%,#DIV/0!,37.0%,37.0%,36.0%,36.0%,35.0%
+scenario, Salaries and Benefits ($000's) ," 26,427 "," 22,658 "," 23,872 "," 23,002 ", - ," 25,000 "," 25,000 "," 25,000 "," 25,000 "," 25,000 "
+scenario, Rent and Overhead ($000's) ," 10,963 "," 10,125 "," 10,087 "," 11,020 ", - ," 10,000 "," 10,000 "," 10,000 "," 10,000 "," 10,000 "
+scenario, Depreciation & Amortization (% of PP&E Open Bal) ,39.0%,39.9%,40.6%,41.2%,#DIV/0!,40.0%,40.0%,40.0%,40.0%,40.0%
+scenario, Interest (% of Debt Open Bal) ,5.0%,5.0%,3.0%,3.0%,#DIV/0!,3.0%,3.0%,3.0%,3.0%,3.0%
+scenario, Tax Rate (% of Earnings Before Tax) ,31.2%,29.2%,28.7%,29.0%,#DIV/0!,28.0%,28.0%,28.0%,28.0%,28.0%
+scenario, Balance Sheet ,,,,,,,,,,
+scenario, Accounts Receivable (Days) , 18 , 18 , 18 , 18 ,#DIV/0!, 18 , 18 , 18 , 18 , 18 
+scenario, Inventory (Days) , 73 , 73 , 73 , 72 ,#DIV/0!, 73 , 73 , 73 , 73 , 73 
+scenario, Accounts Payable (Days) , 37 , 37 , 37 , 36 ,#DIV/0!, 37 , 37 , 37 , 37 , 37 
+scenario, Capital Expenditures ($000's) ," 15,000 "," 15,000 "," 15,000 "," 15,000 ", - ," 15,000 "," 10,000 "," 25,000 "," 10,000 "," 15,000 "
+scenario, Debt Issuance (Repayment) ($000's) , - , - ,"(20,000) ", - , - , - , - ,"(20,000) ", - , - 
+scenario, Equity Issued (Repaid) ($000's) ," 170,000 ", - , - , - , - , - , - , - ,"(150,000) ", - 
+,,,,,,,,,,,
+,,,,,,,,,,,
+label,,,,,data,,,,,
+, Historical Results ,,,,,  Forecast Period ,,,,
+ Income Statement ,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025
+,,,,,,,,,,
+Income Statement,,,,,,,,,,
+ Revenue ," 102,007 "," 118,086 "," 131,345 "," 142,341 ",, - , - , - , - , - 
+ Cost of Goods Sold (COGS) ," 39,023 "," 48,004 "," 49,123 "," 53,254 ",, -   , -   , -   , -   , -   
+ Gross Profit ," 62,984 "," 70,082 "," 82,222 "," 89,087 ", - , - , - , - , - , - 
+ Expenses ,,,,,,,,,,
+ Salaries and Benefits ," 26,427 "," 22,658 "," 23,872 "," 23,002 ",," 25,000 "," 25,000 "," 25,000 "," 25,000 "," 25,000 "
+ Rent and Overhead ," 10,963 "," 10,125 "," 10,087 "," 11,020 ",," 10,000 "," 10,000 "," 10,000 "," 10,000 "," 10,000 "
+ Depreciation & Amortization ," 19,500 "," 18,150 "," 17,205 "," 16,544 ",, - ," 6,000 "," 7,600 "," 14,560 "," 12,736 "
+ Interest ," 2,500 "," 2,500 "," 1,500 ", 900 ,, - , - , - ,(600) ,(600) 
+ Total Expenses ," 59,390 "," 53,433 "," 52,664 "," 51,466 ", - ," 35,000 "," 41,000 "," 42,600 "," 48,960 "," 47,136 "
+ Earnings Before Tax ," 3,594 "," 16,649 "," 29,558 "," 37,622 ", - ,"(35,000) ","(41,000) ","(42,600) ","(48,960) ","(47,136) "
+,,,,,,,,,,
+ Taxes ," 1,120 "," 4,858 "," 8,483 "," 10,908 ",," (9,800)"," (11,480)"," (11,928)"," (13,709)"," (13,198)"
+ Net Earnings ," 2,474 "," 11,791 "," 21,075 "," 26,713 ", - ,"(25,200) ","(29,520) ","(30,672) ","(35,251) ","(33,938) "
+,,,,,,,,,,
+label,,,,,data,,,,,
+, Historical Results ,,,,,  Forecast Period ,,,,
+ Balance Sheet ,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025
+,,,,,,,,,,
+Balance Sheet,,,,,,,,,,
+ Assets ,,,,,,,,,,
+ Cash ," 167,971 "," 181,210 "," 183,715 "," 211,069 ",,"(40,200) ","(73,720) ","(141,792) ","(322,483) ","(358,685) "
+ Accounts Receivable ," 5,100 "," 5,904 "," 6,567 "," 7,117 ",, -   , -   , -   , -   , -   
+ Inventory ," 7,805 "," 9,601 "," 9,825 "," 10,531 ",, - , - , - , - , - 
+ Property & Equipment ," 45,500 "," 42,350 "," 40,145 "," 38,602 ",," 15,000 "," 19,000 "," 36,400 "," 31,840 "," 34,104 "
+ Total Assets ," 226,376 "," 239,065 "," 240,252 "," 267,319 ", - ,"(25,200) ","(54,720) ","(105,392) ","(290,643) ","(324,581) "
+,,,,,,,,,,
+ Liabilities ,,,,,,,,,,
+ Accounts Payable ," 3,902 "," 4,800 "," 4,912 "," 5,265 ",, - , - , - , - , - 
+ Debt ," 50,000 "," 50,000 "," 30,000 "," 30,000 ",, - , - ,"(20,000) ","(20,000) ","(20,000) "
+ Total Liabilities ," 53,902 "," 54,800 "," 34,912 "," 35,265 ", - , - , - ,"(20,000) ","(20,000) ","(20,000) "
+ Shareholder's Equity ,,,,,,,,,,
+ Equity Capital ," 170,000 "," 170,000 "," 170,000 "," 170,000 ",, - , - , - ,"(150,000) ","(150,000) "
+ Retained Earnings ," 2,474 "," 14,265 "," 35,340 "," 62,053 ",,"(25,200) ","(54,720) ","(85,392) ","(120,643) ","(154,581) "
+ Shareholder's Equity ," 172,474 "," 184,265 "," 205,340 "," 232,053 ", - ,"(25,200) ","(54,720) ","(85,392) ","(270,643) ","(304,581) "
+ Total Liabilities & Shareholder's Equity ," 226,376 "," 239,065 "," 240,252 "," 267,319 ", - ,"(25,200) ","(54,720) ","(105,392) ","(290,643) ","(324,581) "
+,,,,,,,,,,
+ Check ,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+,,,,,,,,,,
+,,,,,,,,,,
+label,,,,,data,,,,,
+, Historical Results ,,,,,  Forecast Period ,,,,
+ Cash Flow Statement ,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025
+,,,,,,,,,,
+Cash Flow Statement,,,,,,,,,,
+ Operating Cash Flow ,,,,,,,,,,
+ Net Earnings ," 2,474 "," 11,791 "," 21,075 "," 26,713 ", - ,"(25,200) ","(29,520) ","(30,672) ","(35,251) ","(33,938) "
+ Plus: Depreciation & Amortization ," 19,500 "," 18,150 "," 17,205 "," 16,544 ", - , - ," 6,000 "," 7,600 "," 14,560 "," 12,736 "
+ Less: Changes in Working Capital ," 9,003 "," 1,702 ", 775 , 903 ,, - , - , - , - , - 
+ Cash from Operations ," 12,971 "," 28,239 "," 37,505 "," 42,354 ", - ,"(25,200) ","(23,520) ","(23,072) ","(20,691) ","(21,202) "
+,,,,,,,,,,
+ Investing Cash Flow ,,,,,,,,,,
+ Investments in Property & Equipment ," 15,000 "," 15,000 "," 15,000 "," 15,000 ",," 15,000 "," 10,000 "," 25,000 "," 10,000 "," 15,000 "
+ Cash from Investing ," 15,000 "," 15,000 "," 15,000 "," 15,000 ", - ," 15,000 "," 10,000 "," 25,000 "," 10,000 "," 15,000 "
+,,,,,,,,,,
+ Financing Cash Flow ,,,,,,,,,,
+ Issuance (repayment) of debt , - , - ,"(20,000) ", - , - , - , - ,"(20,000) ", - , - 
+ Issuance (repayment) of equity ," 170,000 ", - , - , - , - , - , - , - ,"(150,000) ", - 
+ Cash from Financing ," 170,000 ", - ,"(20,000) ", - , - , - , - ,"(20,000) ","(150,000) ", - 
+,,,,,,,,,,
+ Net Increase (decrease) in Cash ," 167,971 "," 13,239 "," 2,505 "," 27,354 ", - ,"(40,200) ","(33,520) ","(68,072) ","(180,691) ","(36,202) "
+ Opening Cash Balance , - ," 167,971 "," 181,210 "," 183,715 ",, - ,"(40,200) ","(73,720) ","(141,792) ","(322,483) "
+ Closing Cash Balance ," 167,971 "," 181,210 "," 183,715 "," 211,069 ", - ,"(40,200) ","(73,720) ","(141,792) ","(322,483) ","(358,685) "
+,,,,,,,,,,
+ Check ,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+label,,,,,data,,,,,
+,Historical Results,,,,, Forecast Period,,,,
+Supporting Schedules,2016,=+C3+1,=+D3+1,=+E3+1,=+F3+1,=+G3+1,=+H3+1,=+I3+1,=+J3+1,=+K3+1
+,,,,,,,,,,
+Supporting Schedules,,,,,,,,,,
+Working Capital Schedule,,,,,,,,,,
+Accounts Receivable,5100.35,5904.3,6567.25,7117.05,,='Balance Sheet'!H8,='Balance Sheet'!I8,='Balance Sheet'!J8,='Balance Sheet'!K8,='Balance Sheet'!L8
+Inventory,7804.6,9600.8,9824.6,10530.8,,='Balance Sheet'!H9,='Balance Sheet'!I9,='Balance Sheet'!J9,='Balance Sheet'!K9,='Balance Sheet'!L9
+Accounts Payable,3902.3,4800.4,4912.3,5265.4,,='Balance Sheet'!H14,='Balance Sheet'!I14,='Balance Sheet'!J14,='Balance Sheet'!K14,='Balance Sheet'!L14
+Net Working Capital (NWC),=C7+C8-C9,=D7+D8-D9,=E7+E8-E9,=F7+F8-F9,=G7+G8-G9,=H7+H8-H9,=I7+I8-I9,=J7+J8-J9,=K7+K8-K9,=L7+L8-L9
+Change in NWC,=C10,=D10-C10,=E10-D10,=F10-E10,=G10-F10,=H10-G10,=I10-H10,=J10-I10,=K10-J10,=L10-K10
+,,,,,,,,,,
+Depreciation Schedule,,,,,,,,,,
+PPE Opening,50000,45500,42350,40145,,=G17,=H17,=I17,=J17,=K17
+Plus Capex,15000,15000,15000,15000,,=+Assumptions!H18,=+Assumptions!I18,=+Assumptions!J18,=+Assumptions!K18,=+Assumptions!L18
+Less Depreciation,19500,18150,17205,16543.5,,=H14*Assumptions!H11,=I14*Assumptions!I11,=J14*Assumptions!J11,=K14*Assumptions!K11,=L14*Assumptions!L11
+PPE Closing,=C14+C15-C16,=D14+D15-D16,=E14+E15-E16,=F14+F15-F16,=G14+G15-G16,=H14+H15-H16,=I14+I15-I16,=J14+J15-J16,=K14+K15-K16,=L14+L15-L16
+,,,,,,,,,,
+Debt & Interest Schedule,,,,,,,,,,
+Debt Opening,50000,50000,50000,30000,,=G22,=H22,=I22,=J22,=K22
+Issuance (repayment),0,0,-20000,0,0,=+Assumptions!H19,=+Assumptions!I19,=+Assumptions!J19,=+Assumptions!K19,=+Assumptions!L19
+Debt Closing,=SUM(C20:C21),=SUM(D20:D21),=SUM(E20:E21),=SUM(F20:F21),=SUM(G20:G21),=SUM(H20:H21),=SUM(I20:I21),=SUM(J20:J21),=SUM(K20:K21),=SUM(L20:L21)
+Interest Expense,2500,2500,1500,900,,=H20*Assumptions!H12,=I20*Assumptions!I12,=J20*Assumptions!J12,=K20*Assumptions!K12,=L20*Assumptions!L12
+,,,,,,,,,,
+,,,,,,,,,,
+='Cash Flows'!B10,='Cash Flows'!C10,='Cash Flows'!D10,='Cash Flows'!E10,='Cash Flows'!F10,='Cash Flows'!G10,='Cash Flows'!H10,='Cash Flows'!I10,='Cash Flows'!J10,='Cash Flows'!K10,='Cash Flows'!L10
+='Cash Flows'!B14,=-'Cash Flows'!C14,=-'Cash Flows'!D14,=-'Cash Flows'!E14,=-'Cash Flows'!F14,=-'Cash Flows'!G14,=-'Cash Flows'!H14,=-'Cash Flows'!I14,=-'Cash Flows'!J14,=-'Cash Flows'!K14,=-'Cash Flows'!L14
+='Cash Flows'!B19,='Cash Flows'!C19,='Cash Flows'!D19,='Cash Flows'!E19,='Cash Flows'!F19,='Cash Flows'!G19,='Cash Flows'!H19,='Cash Flows'!I19,='Cash Flows'!J19,='Cash Flows'!K19,='Cash Flows'!L19
+Net Changes in Cash,='Cash Flows'!C21,='Cash Flows'!D21,='Cash Flows'!E21,='Cash Flows'!F21,='Cash Flows'!G21,='Cash Flows'!H21,='Cash Flows'!I21,='Cash Flows'!J21,='Cash Flows'!K21,='Cash Flows'!L21
+='Cash Flows'!B23,='Cash Flows'!C23,='Cash Flows'!D23,='Cash Flows'!E23,='Cash Flows'!F23,='Cash Flows'!G23,='Cash Flows'!H23,='Cash Flows'!I23,='Cash Flows'!J23,='Cash Flows'!K23,='Cash Flows'!L23
+,,,,,,,,,,
+Revenue,='Income Statement'!C6,='Income Statement'!D6,='Income Statement'!E6,='Income Statement'!F6,='Income Statement'!G6,='Income Statement'!H6,='Income Statement'!I6,='Income Statement'!J6,='Income Statement'!K6,='Income Statement'!L6
+Gross Profit,='Income Statement'!C8,='Income Statement'!D8,='Income Statement'!E8,='Income Statement'!F8,='Income Statement'!G8,='Income Statement'!H8,='Income Statement'!I8,='Income Statement'!J8,='Income Statement'!K8,='Income Statement'!L8
+Earnings Before Tax,='Income Statement'!C15,='Income Statement'!D15,='Income Statement'!E15,='Income Statement'!F15,='Income Statement'!G15,='Income Statement'!H15,='Income Statement'!I15,='Income Statement'!J15,='Income Statement'!K15,='Income Statement'!L15
