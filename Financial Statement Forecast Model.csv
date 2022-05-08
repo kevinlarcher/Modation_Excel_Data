@@ -1,0 +1,21 @@
+,,Historical Results,,,,, Forecast Period,,,,
+scenario,ASSUMPTIONS,2016,=+C3+1,=+D3+1,=+E3+1,=+F3+1,=+G3+1,=+H3+1,=+I3+1,=+J3+1,=+K3+1
+,,,,,,,,,,,
+,Assumptions,,,,,,,,,,
+scenario,Income statement,,,,,,,,,,
+scenario,Revenue Growth (% Change),,='Income Statement'!D6/'Income Statement'!C6-1,='Income Statement'!E6/'Income Statement'!D6-1,='Income Statement'!F6/'Income Statement'!E6-1,='Income Statement'!G6/'Income Statement'!F6-1,0.05,0.045,0.04,0.035,0.03
+scenario,Cost of Goods Sold (% of Revenue),='Income Statement'!C7/'Income Statement'!C6,='Income Statement'!D7/'Income Statement'!D6,='Income Statement'!E7/'Income Statement'!E6,='Income Statement'!F7/'Income Statement'!F6,='Income Statement'!G7/'Income Statement'!G6,0.37,0.37,0.36,0.36,0.35
+scenario,Salaries and Benefits ($000's),='Income Statement'!C10,='Income Statement'!D10,='Income Statement'!E10,='Income Statement'!F10,='Income Statement'!G10,25000,25000,25000,25000,25000
+scenario,Rent and Overhead ($000's),='Income Statement'!C11,='Income Statement'!D11,='Income Statement'!E11,='Income Statement'!F11,='Income Statement'!G11,10000,10000,10000,10000,10000
+scenario,Depreciation & Amortization (% of PP&E Open Bal),='Income Statement'!C12/'Supporting Schedules'!C14,='Income Statement'!D12/'Supporting Schedules'!D14,='Income Statement'!E12/'Supporting Schedules'!E14,='Income Statement'!F12/'Supporting Schedules'!F14,='Income Statement'!G12/'Supporting Schedules'!G14,0.4,0.4,0.4,0.4,0.4
+scenario,Interest (% of Debt Open Bal),='Supporting Schedules'!C23/'Supporting Schedules'!C20,='Supporting Schedules'!D23/'Supporting Schedules'!D20,='Supporting Schedules'!E23/'Supporting Schedules'!E20,='Supporting Schedules'!F23/'Supporting Schedules'!F20,='Supporting Schedules'!G23/'Supporting Schedules'!G20,0.03,0.03,0.03,0.03,0.03
+scenario,Tax Rate (% of Earnings Before Tax),='Income Statement'!C17/'Income Statement'!C15,='Income Statement'!D17/'Income Statement'!D15,='Income Statement'!E17/'Income Statement'!E15,='Income Statement'!F17/'Income Statement'!F15,='Income Statement'!G17/'Income Statement'!G15,0.28,0.28,0.28,0.28,0.28
+scenario,Balance Sheet,,,,,,,,,,
+scenario,Accounts Receivable (Days),='Balance Sheet'!C8/'Income Statement'!C6*365,='Balance Sheet'!D8/'Income Statement'!D6*365,='Balance Sheet'!E8/'Income Statement'!E6*365,='Balance Sheet'!F8/'Income Statement'!F6*365,='Balance Sheet'!G8/'Income Statement'!G6*365,18,18,18,18,18
+scenario,Inventory (Days),='Balance Sheet'!C9/'Income Statement'!C7*365,='Balance Sheet'!D9/'Income Statement'!D7*365,='Balance Sheet'!E9/'Income Statement'!E7*365,='Balance Sheet'!F9/'Income Statement'!F7*365,='Balance Sheet'!G9/'Income Statement'!G7*365,73,73,73,73,73
+scenario,Accounts Payable (Days),='Balance Sheet'!C14/'Income Statement'!C7*365,='Balance Sheet'!D14/'Income Statement'!D7*365,='Balance Sheet'!E14/'Income Statement'!E7*365,='Balance Sheet'!F14/'Income Statement'!F7*365,='Balance Sheet'!G14/'Income Statement'!G7*365,37,37,37,37,37
+scenario,Capital Expenditures ($000's),='Cash Flows'!C13,='Cash Flows'!D13,='Cash Flows'!E13,='Cash Flows'!F13,='Cash Flows'!G13,15000,10000,25000,10000,15000
+scenario,Debt Issuance (Repayment) ($000's),='Supporting Schedules'!C21,='Supporting Schedules'!D21,='Supporting Schedules'!E21,='Supporting Schedules'!F21,='Supporting Schedules'!G21,0,0,-20000,0,0
+scenario,Equity Issued (Repaid) ($000's),='Cash Flows'!C18,='Cash Flows'!D18,='Cash Flows'!E18,='Cash Flows'!F18,='Cash Flows'!G18,0,0,0,-150000,0
+,,,,,,,,,,,
+,,,,,,,,,,,
