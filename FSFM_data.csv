@@ -1,0 +1,24 @@
+﻿worksheet,account,balance
+income statement,revenue,150772
+income statement,cost of goods sold (cogs),57310
+income statement,salaries and benefits,25245
+income statement,rent and overhead,11412
+income statement,depreciation & amortization,16080.45
+income statement,interest,900
+income statement,taxes,11597.67
+balance sheet,cash,239549.52
+balance sheet,accounts receivable,7538.6
+balance sheet,inventory,11342
+balance sheet,property & equipment,37521.05
+balance sheet,accounts payable,5671
+balance sheet,debt,30000
+balance sheet,equity capital,170000
+balance sheet,retained earnings,90280.17
+cash flows,less: changes in working capital,827.15
+cash flows,investments in property & equipment,15000
+cash flows,opening cash balance,211069.34
+supporting schedules,ppe opening,38601.5
+supporting schedules,plus capex,15000
+supporting schedules,less depreciation,16080.45
+supporting schedules,debt opening,30000
+supporting schedules,interest expense,900
